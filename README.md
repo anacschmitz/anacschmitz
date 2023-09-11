@@ -1,6 +1,6 @@
 [![Github](https://img.shields.io/github/followers/anacschmitz?label=Follow&style=social)](https://github.com/anacschmitz)
 <!-- Linkedin -->
-  <a href="//https://www.linkedin.com/in/anadevjr" target="_blank">
+  <a href="https://www.linkedin.com/in/anadevjr/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"  />
   </a>
   <br>
